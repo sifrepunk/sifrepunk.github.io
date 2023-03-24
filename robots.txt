@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://sifrepunk.github.io/sitemap.xml
+Sitemap: https://sifrepunk.com/sitemap.xml
