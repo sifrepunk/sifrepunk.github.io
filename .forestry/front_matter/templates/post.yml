@@ -26,6 +26,16 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: minute
+  type: number
+  label: minute
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _posts/2023-03-24-ipsumlorem.md
 - _posts/2023-03-24-test.md
