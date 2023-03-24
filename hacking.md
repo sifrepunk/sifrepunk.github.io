@@ -69,10 +69,8 @@ category: ''
     
     <ul>
     
-        {% for post in site.posts %}
+        {% for post in site.categories.hacking %}
     
-        <li>
-    	{% for post in post.category.hacking %}
         <li>
     
     	<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
