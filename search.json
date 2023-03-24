@@ -64,15 +64,6 @@
     } ,
   
     {
-      "title"    : "Image caption in Jekyll",
-      "description" : "Using an image caption in Jekyll",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/02/03/image-captions-in-jekyll",
-      "date"     : "2018-02-03 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Custom 404 page for Jekyll on Github pages",
       "description" : "Serve custom 404 error pages with Jekyll",
       "category" : "",
