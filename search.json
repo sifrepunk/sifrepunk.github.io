@@ -19,15 +19,6 @@
     } ,
   
     {
-      "title"    : "test",
-      "description" : "açıklama",
-      "category" : "",
-      "tags"     : "siber,guvenlik",
-      "url"      : "/2023/03/24/test",
-      "date"     : "2023-03-24 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Difference between font formats",
       "description" : "What is the difference between various font formats?",
       "category" : "",
@@ -52,15 +43,6 @@
       "tags"     : "netlify, coding, security",
       "url"      : "/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
       "date"     : "2019-05-23 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Syntax highlight with Rouge in Jekyll",
-      "description" : "Enable syntax highlighting in your site",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/12/23/syntax-highlight-with-rouge-in-jekyll",
-      "date"     : "2018-12-23 00:00:00 +0100"
     } ,
   
     {
@@ -196,15 +178,6 @@
       "tags"     : "seo",
       "url"      : "/2016/12/11/structured-data-markup-validation-and-testing-tools",
       "date"     : "2016-12-11 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Top monospaced fonts for coding",
-      "description" : "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer",
-      "category" : "",
-      "tags"     : "coding",
-      "url"      : "/2016/11/27/top-monospaced-fonts-for-coding",
-      "date"     : "2016-11-27 00:00:00 +0100"
     } ,
   
     {
