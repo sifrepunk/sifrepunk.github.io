@@ -1,21 +1,3 @@
 [
   
-    {
-      "title"    : "Adding HTTP response headers to a Netlify static website",
-      "description" : "Increase the security of your Netlify website by adding security headers",
-      "category" : "",
-      "tags"     : "netlify, coding, security",
-      "url"      : "/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
-      "date"     : "2019-05-23 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Applying the active class for the current page in Jekyll",
-      "description" : "How to apply the active class for the current page in Jekyll",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
-      "date"     : "2018-06-07 00:00:00 +0200"
-    } 
-  
 ]
