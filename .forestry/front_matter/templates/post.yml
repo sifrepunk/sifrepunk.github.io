@@ -17,3 +17,5 @@ fields:
 - type: text
   name: tags
   label: tags
+pages:
+- _posts/test.md
