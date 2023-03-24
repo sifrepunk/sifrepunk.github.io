@@ -4,8 +4,8 @@ layout: post
 title: "[TR] Bazen Biz Sistemi Hackleriz, Bazen Sistem Bizi Hackler"
 description: sistemi hacklemek
 summary: ''
-tags: sistem,hack
-date: 2023-03-24 21:00:00 +0000
+tags: sistem hack
+date: 2023-03-24T21:00:00.000+00:00
 
 ---
 **Biz hackerlar engellenmeyi sevmeyiz. Bilgisayarımızda “erişim engellenmiştir” yazısını göremezsiniz. Yasakları ve kuralları sevmeyiz, kuralları çiğnemeyi severiz. Kuralların çiğnediği insanlar da bizi sever.**
