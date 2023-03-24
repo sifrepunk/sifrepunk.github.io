@@ -17,30 +17,6 @@
 "items": [
     
         {
-            "id": "https://sifrepunk.com/2023/03/24/buseferoldu",
-            "title": "Buseferoldu",
-            "summary": "acikladim",
-            "content_text": "huhauhauhaus",
-            "content_html": "<p>huhauhauhaus</p>",
-            "url": "https://sifrepunk.com/2023/03/24/buseferoldu",
-            
-            
-            
-            
-            
-            "date_published": "2023-03-24T22:00:00+01:00",
-            "date_modified": "2023-03-24T22:00:00+01:00",
-            
-                "author":  {
-                "name": "gesko",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
             "id": "https://sifrepunk.com/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
             "title": "Adding HTTP response headers to a Netlify static website",
             "summary": "Increase the security of your Netlify website by adding security headers",

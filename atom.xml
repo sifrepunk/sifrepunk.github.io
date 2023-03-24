@@ -4,22 +4,13 @@
  <title>Gesko</title>
  <link href="https://sifrepunk.com/atom.xml" rel="self"/>
  <link href="https://sifrepunk.com/"/>
- <updated>2023-03-24T23:05:30+01:00</updated>
+ <updated>2023-03-24T23:05:35+01:00</updated>
  <id>https://sifrepunk.com</id>
  <author>
    <name>gesko</name>
    <email>your-email@email.com</email>
  </author>
 
- 
- <entry>
-   <title>Buseferoldu</title>
-   <link href="https://sifrepunk.com/2023/03/24/buseferoldu"/>
-   <updated>2023-03-24T22:00:00+01:00</updated>
-   <id>https://sifrepunk.com/2023/03/24/buseferoldu</id>
-   <content type="html">&lt;p&gt;huhauhauhaus&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Adding HTTP response headers to a Netlify static website</title>
