@@ -27,5 +27,5 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _posts/2023-03-24-ipsumlorem.md
 - _posts/2023-03-24-test.md
-- _posts/ipsumlorem.md
