@@ -1,7 +1,7 @@
 ---
 minute: 1
 layout: default
-title: hacking.html
+title: hacking
 description: ''
 summary: ''
 tags: ''
