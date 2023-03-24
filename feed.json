@@ -305,30 +305,6 @@
         },
     
         {
-            "id": "https://sifrepunk.com/2017/01/02/headers-test",
-            "title": "Jejkyll Headers",
-            "summary": "This is page to test jekyll headers",
-            "content_text": "Headers TestThis page tests jekyll headersHeader 1This largest headerHeader 2This 2nd largest headerHeader 3This third largest headerHeader 4This medium headerHeader 5This 2nd smallest headerHeader 6This smallest header",
-            "content_html": "<h1 id=\"headers-test\">Headers Test</h1><p>This page tests jekyll headers</p><h1 id=\"header-1\">Header 1</h1><p>This largest header</p><h2 id=\"header-2\">Header 2</h2><p>This 2nd largest header</p><h3 id=\"header-3\">Header 3</h3><p>This third largest header</p><h4 id=\"header-4\">Header 4</h4><p>This medium header</p><h5 id=\"header-5\">Header 5</h5><p>This 2nd smallest header</p><h6 id=\"header-6\">Header 6</h6><p>This smallest header</p>",
-            "url": "https://sifrepunk.com/2017/01/02/headers-test",
-            
-            
-            
-            "tags": ["headers","jekyll","css"],
-            
-            "date_published": "2017-01-02T00:00:00+01:00",
-            "date_modified": "2017-01-02T00:00:00+01:00",
-            
-                "author":  {
-                "name": "gesko",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
             "id": "https://sifrepunk.com/2014/05/12/css-hacks-you-may-not-know",
             "title": "CSS hacks you may not know",
             "summary": "This is a collection of short CSS snippets I thought might be useful for beginners",
