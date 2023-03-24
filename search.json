@@ -10,15 +10,6 @@
     } ,
   
     {
-      "title"    : "Difference between font formats",
-      "description" : "What is the difference between various font formats?",
-      "category" : "",
-      "tags"     : "typography",
-      "url"      : "/2019/08/31/difference-between-font-formats",
-      "date"     : "2019-08-31 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Adding HTTP response headers to a Netlify static website",
       "description" : "Increase the security of your Netlify website by adding security headers",
       "category" : "",
@@ -34,24 +25,6 @@
       "tags"     : "coding, jekyll",
       "url"      : "/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
       "date"     : "2018-06-07 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Displaying GitHub Gists in Jekyll sites",
-      "description" : "A Liquid tag for Jekyll sites that allows embedding Gists",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/05/13/displaying-github-gists-in-jekyll-sites",
-      "date"     : "2018-05-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Disable Jekyll&#39;s default syntax highlighter Rouge",
-      "description" : "How to disable Jekyll&#39;s default syntax highlighter",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
-      "date"     : "2018-02-05 00:00:00 +0100"
     } ,
   
     {
