@@ -69,7 +69,9 @@ category: ''
 
     <ul>
 
-        {% for post in site.posts.categsories.hacking %}
+        {% assign hacking_pages = site.categories.hacking | sort:"title"%} 
+
+        {% for post in hacking_pages %}
 
         <li>
 
