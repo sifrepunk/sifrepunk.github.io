@@ -36,6 +36,11 @@ fields:
     min: 
     max: 
     step: 
+- name: category
+  type: text
+  config:
+    required: false
+  label: category
 pages:
 - _posts/2023-03-24-tr-bazen-biz-sistemi-hackleriz-bazen-sistem-bizi-hackler.md
 - _posts/2023-03-24-tr-dijital-karantina.md
