@@ -28,6 +28,15 @@
     } ,
   
     {
+      "title"    : "Staticman comments on a Jekyll site",
+      "description" : "Generating comments on static sites with Staticman",
+      "category" : "",
+      "tags"     : "jekyll, coding",
+      "url"      : "/2019/07/23/staticman-comments-on-a-jekyll-site",
+      "date"     : "2019-07-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Adding HTTP response headers to a Netlify static website",
       "description" : "Increase the security of your Netlify website by adding security headers",
       "category" : "",
@@ -106,6 +115,15 @@
       "tags"     : "jekyll, coding",
       "url"      : "/2018/02/03/image-captions-in-jekyll",
       "date"     : "2018-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Showing the word count in Jekyll",
+      "description" : "Obtaining the word count from a post in Jekyll",
+      "category" : "",
+      "tags"     : "jekyll, coding",
+      "url"      : "/2018/01/17/showing-the-word-count",
+      "date"     : "2018-01-17 00:00:00 +0100"
     } ,
   
     {
