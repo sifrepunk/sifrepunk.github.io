@@ -4,13 +4,89 @@
  <title>we are cyberpunks!</title>
  <link href="https://sifrepunk.com/atom.xml" rel="self"/>
  <link href="https://sifrepunk.com/"/>
- <updated>2023-03-24T23:24:22+01:00</updated>
+ <updated>2023-03-24T23:24:41+01:00</updated>
  <id>https://sifrepunk.com</id>
  <author>
    <name>gesko</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>[TR] Karantinadan Çıkış</title>
+   <link href="https://sifrepunk.com/2023/03/24/tr-karantinadan-cikis"/>
+   <updated>2023-03-24T22:00:00+01:00</updated>
+   <id>https://sifrepunk.com/2023/03/24/tr-karantinadan-cikis</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sansürü Atlat:&lt;/strong&gt;&lt;br /&gt;
+İnternet doğası itibariyle özgür bir ortam. Fakat suyun başını kesen “otorite”ler, bu özgürlüğü kısıtlamak için birtakım mekanizmaları devreye sokmaktan asla geri durmuyor.&lt;br /&gt;
+Bunlardan en yaygın olanı ise sansür mekanizması. VPN servisleri ve özellikle TOR networkü kullanarak sansür mekanizmasını kolayca atlatabilirsin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arkakapidergi.com/kendi-baglantim-ile-kendi-vpn-sunucunuzu-kurun/&quot;&gt;Kendi Bağlantım ile Kendi VPN Sunucunuzu Nasıl Kurabilirsiniz?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gözetimden Kaç:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TOR networkü yalnızca sansürü atlatmakla kalmaz, aynı zamanda internetteki etkinliğini takip etmek isteyenlerden, hükümetler ve reklam verenlerden kurtulmanı sağlar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arkakapidergi.com/internette-gizli-kalin-the-onion-router/&quot;&gt;İnternette Gizli Kalın: TOR Nasıl çalışır, kurulur, kullanılır?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arkakapidergi.com/fantazyada-yasaklari-savmak-tor-networkunde-web-sitesi-nasil-acilir/&quot;&gt;TOR’da bir web sitesi nasıl açılır?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Üçüncü Kişileri Kov:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Günlük iletişiminde gizliliği sağlamak için de Wickr Me vb. gibi kripto-chat uygulamalarını tercih et. Üçüncü kişileri sohbetine dâhil ve ortak etme.&lt;br /&gt;
+Mail yazışmalarında ise &lt;a href=&quot;https://protonmail.com/&quot;&gt;ProtonMail&lt;/a&gt; gibi şifreli iletişim sağlayan mail servislerini kullan.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;E.N&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Alternatif olarak,&lt;/em&gt; &lt;a href=&quot;https://tutanota.com/&quot;&gt;&lt;em&gt;tutanota.com&lt;/em&gt;&lt;/a&gt; &lt;em&gt;da tercih edilebilir, aynı zamanda Tutanota dergimizin mail sponsorudur.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yazılımla Özgürleş:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kaynak kodlarına erişemediğin her yazılım potansiyel bir tehlikedir. Dolayısıyla başta işletim sistemin olmak üzere, özgür yazılımı dijital yaşamının olmazsa olmaz bir parçası olarak gör.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;“Ana Akım”dan Uzak Dur:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Manipülasyondan ve algı yönetiminden zihnini korumak için ana akım medya ve sosyal mecralardan uzak kalmalısın. Bunun için Reddit, Medium vb. gibi alternatif mecraları deneyimleyebilirsin.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;“Google’a &lt;em&gt;Elveda&lt;/em&gt; de:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En yaygın kullanılan arama motoru olan Google’ın, yaptığın tüm aramaları depoladığını hatrından çıkarma. &lt;a href=&quot;https://duckduckgo.com/&quot;&gt;DuckDuckGo&lt;/a&gt; gibi kişisel verileri saklamayan ve seni reklamlarla takip etmeyen arama motorlarını kullanmaya kendini alıştır. (Alternatif, &lt;a href=&quot;https://www.startpage.com/&quot;&gt;Startpage&lt;/a&gt;)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ketum Ol:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sistem, her duygunu, her fikrini hatta hayatının her anını “ağ” ile “paylaş”manı salık verir. Bunun yalnızca suni bir dayatmadan ibaret olduğunun farkına var ve mümkün mertebe “özel”ini sosyal medyada sergilemekten kaçın. Kişisel bilgilerini içermeyen anonim hesaplar kullan.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Uyanık Ol:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Akıllı telefonların esasen bir gözetleme aracı olduğunu bil ve kullanırken diğer maddelere uymakla beraber, indirdiğin uygulamaların istediği izinleri vermekte cömert davranma.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Örgütlen:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dijital haklar, internet sansürü, kitlesel gözetim vb. üzerine çalışan sivil toplum kuruluşlarıyla dirsek teması kur.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Konfor Alanını Terk Et:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bütün bunları yapabilmen için gerekenlerden belki de en önemlisi kullanım alışkanlıklarını değiştirmen olacak. En zoru da bu değil mi? Yavaş ve sistemli değişikliklerle bunu başarabilirsin.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;“Şimdi değilse ne zaman?”&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Arka Kapı Dergisi / Ahmet Ümit BAYRAM&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>[TR] Dijital Karantina</title>
