@@ -69,7 +69,7 @@ category: ''
     
     <ul>
     
-        {% for post in site.categories.hacking %}
+        {% for post in site.posts %}
     
         <li>
     
