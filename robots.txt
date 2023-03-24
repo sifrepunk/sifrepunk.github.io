@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://DavideBri.github.io/sitemap.xml
+Sitemap: https://sifrepunk.github.io/sitemap.xml
