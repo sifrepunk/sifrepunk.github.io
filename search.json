@@ -118,15 +118,6 @@
     } ,
   
     {
-      "title"    : "Quotes In Jekyll",
-      "description" : "This is how quotes look in jekyll",
-      "category" : "",
-      "tags"     : "quotes, jekyll",
-      "url"      : "/2017/02/05/quotes-test",
-      "date"     : "2017-02-05 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Creating navigation menu in Jekyll",
       "description" : "Using data folder to build Jekyll navigation",
       "category" : "",
@@ -142,15 +133,6 @@
       "tags"     : "headers, jekyll, css",
       "url"      : "/2017/01/02/headers-test",
       "date"     : "2017-01-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Places where you can learn how to code",
-      "description" : "There many different options to learn to code online, so in this article, find places you can learn to code",
-      "category" : "",
-      "tags"     : "coding",
-      "url"      : "/2015/07/31/places-where-you-can-learn-how-to-code",
-      "date"     : "2015-07-31 00:00:00 +0200"
     } ,
   
     {
