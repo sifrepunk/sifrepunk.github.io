@@ -25,15 +25,6 @@
       "tags"     : "coding, jekyll",
       "url"      : "/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
       "date"     : "2018-06-07 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Creating navigation menu in Jekyll",
-      "description" : "Using data folder to build Jekyll navigation",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/2017/01/03/creating-navigation-menu-in-jekyll",
-      "date"     : "2017-01-03 00:00:00 +0100"
     } 
   
 ]
