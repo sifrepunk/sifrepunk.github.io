@@ -1,8 +1,8 @@
 site: Gesko
 title: Gesko
-greetings: Hi 👋
+greetings: sifrepunk.com
 description: >-
-  just a minimalist, personal blog
+  we are cypherpunks!
 lang: en-US
 timezone:  Europe/Rome
 data-theme: dark # default theme "dark" | "light"
@@ -10,7 +10,7 @@ discus-identifier: powex # replace with your disqus shortname
 
 author:
   name: gesko
-  bio: just a minimalist, personal blog
+  bio: we are cypherpunks!
   userpicture: 
   username: # general username
   github: # github username
