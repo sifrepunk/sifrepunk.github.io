@@ -37,4 +37,5 @@ fields:
     max: 
     step: 
 pages:
+- _posts/tr-bazen-biz-sistemi-hackleriz-bazen-sistem-bizi-hackler.md
 - books.md
