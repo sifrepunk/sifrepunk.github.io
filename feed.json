@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "we are cyberpunks!",
+    "title": "",
     "home_page_url": "https://sifrepunk.com/",
     "feed_url": "https://sifrepunk.com/feed.json",
-    "description": "we are cypherpunks!",
+    "description": null,
     "icon": "https://sifrepunk.com/apple-touch-icon.png",
     "favicon": "https://sifrepunk.com/favicon.ico",
     "expired": false,
