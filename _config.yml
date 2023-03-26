@@ -1,8 +1,7 @@
-site: sifrepunk.com
-title: we are cyberpunks!
-greetings: sifrepunk.com
-description: >-
-  we are cypherpunks!
+site: 
+title: 
+greetings: 
+description: 
 lang: en-US
 timezone:  Europe/Rome
 data-theme: dark # default theme "dark" | "light"
@@ -10,7 +9,7 @@ discus-identifier: powex # replace with your disqus shortname
 
 author:
   name: gesko
-  bio: we are cypherpunks!
+  bio: 
   userpicture: 
   username: # general username
   github: # github username
