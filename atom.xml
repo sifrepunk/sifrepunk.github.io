@@ -4,13 +4,44 @@
  <title>we are cyberpunks!</title>
  <link href="https://sifrepunk.com/atom.xml" rel="self"/>
  <link href="https://sifrepunk.com/"/>
- <updated>2023-03-26T08:18:22+02:00</updated>
+ <updated>2023-03-26T08:18:46+02:00</updated>
  <id>https://sifrepunk.com</id>
  <author>
    <name>gesko</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>[TR] Kod ve Wikipedia&apos;nın Diğer Kanunları</title>
+   <link href="https://sifrepunk.com/2023/03/25/tr-kod-ve-wikipedia-nin-diger-kanunlari"/>
+   <updated>2023-03-25T22:00:00+01:00</updated>
+   <id>https://sifrepunk.com/2023/03/25/tr-kod-ve-wikipedia-nin-diger-kanunlari</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Lawrence Lessig’in dediği gibi, kod kanundur. Lawrence Lessig’in bu sözünün üstünden yıllar geçmesine rağmen, etkisinden birşey kaybetmedi. Code, and Other Laws of Cyberspace kitabında savunduğu gibi, esas konu yazılımla yaratılmış dünyalarda, yazılımın tasarlanma biçimi kullanıcıların davranışlarının, kanunların insanlara yaptığı gibi düzenlemektedir, hatta bu konuda daha etkilidir.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bazı yerlerde bu durum barizdir. Mesela Second Life’ın 3B dünyasında, yazılım sizin bazı sözcükleri yazmanızı engelliyorsa, bu kanunun yapabileceğinden çok daha etkili bir şekilde kısıtlar. Wiki yazılımı üzerine kurulu Wikipedia gibi gelişen topluluk ve kültürün olduğu ortamlarda bu durumun etkisi çok daha derinden işlenmiş haldedir.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;İlk olarak, topluluğa kimlerin katılabileceğini yazılım belirler. Eğer kullanımı açık ve basit ise, herkes kullanabilir. Öte yandan, eğer kullanımı karmaşıksa, ancak bunu öğrenmeye vakit ayıranlar bu toplulukta yer alabilir. Ve gördüğümüz gibi, zeki birçok insan Wikipedia’da yapabileceği birçok şeyin ötesinde, bir Wikipedia sayfasını nasıl düzelteceğini dahi anlamıyor.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Başka bir durum ise, yazılımın topluluğun nasıl çalışacağına karar vermesi. Yönetici hakları gibi özellikler, bazı kullanıcıların diğerlerinin üstünde olmasını sağlar. Doğrulanmış düzeltmeler gibi kısımları destekler, nelerin yayınlanacağına karar verirken; konuşma sayfalarının yapısı, nelerin nasıl tartışılacağını belirler.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sitenin sayfa tasarımı bazı bağlantıları daha net ve belirgin yaparak, bazı eylemlerin kullanımını arttırır. Kategori gibi yazılım fonksyonları, bazı özellikleri mümkün kular. Bilgi kutuları ve linklerin düzenlenmesi için çalışan kodlar, yeni kullanıcıların bu kısımları ne kadar kolay ya da zor düzenleyebileceğini belirler.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bu kararların çoğu teknik değil politik kararlardır. Dolayısıyla zeki bir programcının bir çırpıda verebileceği cevaplar değillerdir. Öte yandan bu kararların topluluğun üzerinde çok büyük bir etkisi vardır. Bu yüzden topluluğun bu tarz kararlar verilirken sürece dahil olması elzemdir.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wikipedia’nın şu anki yazılım takımı gönüllülerden oluşuyor (birkaç tanesi daha rahat yaşayabilsinler diye yakın zamanda Wikimedia Derneği tarafından işe alınmış olsalar da) ve diğer özgür yazılım toplulukları gibi mail listeleri ve IRC kanalları üzerinden konuları tartışarak ilerliyorlar. Bazı sıcak gelişmeleri konuşmak için Wikimania’dan önce birebir buluşuyorlar.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kullanılabilirlik uzmanı tarafından yapılan sunumlardan biri kullanıcıların Wikipedia sayfalarında, görsel eklemeyi ne kadar zor buldukları üzerineydi. Bunun sonrasındaki tartışma, Wikipedia’nın kolay kullanılır olup olmaması gerektiğine kaydı. Kimileri, kafası karışan kullanıcıların katkılarını yanlış şekillerde yapıp, daha deneyimli kullanıcıların bunları düzeltmesinden yanayken, diğerleri bu kafası karışmış kullanıcıların siteyi herhangi bir şekilde düzeltmelerine izin verilmesinin gerekli olup olmadığı, hatta onların katkılarının değerli olup olmadığı üzerine tartıştılar.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bir programcı olarak, başka programcılara karşı büyük saygım var. Ama bu kararlar programcıların alması gereken kararlar mı?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bu arada, Jimbo Wales’ın Wikia adında kar amaçlı bir şirket daha var, hatta geçen sene 4 milyon dolar yatırım aldı. Ve Wikimania’da yaptığı açılış konuşmasında, bu parayı harcamayı düşündüğü yerlerden birinin Wikipedia’yı iyileştirmek için işe alacağı yazılımcılar olduğunu söyledi.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yazılımı tarafsız olarak düşünürsek, bu tarz bir hareketi düşünceli bir jest olarak görebiliriz, nihayetinde geliştirme geliştirmedir, ama teknik kararların politik sonuçlar doğurduğunu göz önünde bulundurursak, bu tarz hareketler sorunlu hale geliyor. Yukarıda bahsettiğim bazı kararları yönetici veya yatırımcıların alması da ne kadar doğru?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wikipedia topluluğu çok canlı ve bunun gibi birçok yazılım değişikliğinin üstesinden geleceklerine şüphem yok. Ama hayatta kalmasını değil de, Wikipedia’yı gelebileceği en iyi yere getirmeyi hedefliyorsak, yazılım tasarımı üzerine verdiğimiz politik kararlar kadar çok düşünmemiz gerekir.&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>[TR] Karantinadan Çıkış</title>
